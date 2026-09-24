@@ -4,7 +4,7 @@ xenon v3.2.3-vex deps=
 katkit v0.1.0 deps=
 nvim v0.11.6 deps=
 swp v0.1.0 deps=
-luajit v2.1 deps= lua
+luajit v2.1 deps=
 yasm v1.3 deps=
 youtube-music v0.2.0 deps=
 
